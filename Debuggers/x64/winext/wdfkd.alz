@@ -1,0 +1,8 @@
+#
+# Analysis Plugin for WdfKd
+#
+
+PluginId        wdfkd
+
+ImageName       Wdf01000.sys
+ImageName       WUDFx02000.dll

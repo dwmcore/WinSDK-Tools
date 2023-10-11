@@ -1,0 +1,21 @@
+{
+  "Options": [
+    {
+      "Applications": [],
+      "Description": "Only queried PerfCore add-ins are loaded.",
+      "Name": "SkipAutoLoad",
+      "Runtimes": [
+        "Microsoft.DataLayer"
+      ]
+    },
+    {
+      "Applications": [],
+      "Description": "Core4SymbolPrefetcher is used when symbol loading is enabled.",
+      "Name": "UseCore4SymbolPrefetcher",
+      "Runtimes": [
+      ]
+    }
+  ],
+    "PlugInName": "PerfCore",
+    "Version": "1.0.0"
+}
